@@ -22,5 +22,5 @@ Download:
 -------
 
 
-Screenshot:
+Screenshots:
 -----------
