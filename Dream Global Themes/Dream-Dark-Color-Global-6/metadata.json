@@ -1,0 +1,38 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "l4k1987@gmail.com",
+                "Name": "l4k1"
+            }
+        ],
+        "Category": "Global Themes (Plasma 6)",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "EnabledByDefault": true,
+        "Name": "Dream-Dark-Color-Global-6",
+        "Description": "Dream Dark Color Global Theme by l4k1",
+        "Id": "Dream-Dark-Color-Global-6",
+        "Version": "1.0",
+        "License": "GPLv3",
+        "Website": "https://github.com/L4ki/Dream-Plasma-Themes"
+    },
+    "X-KPackage-Dependencies": [
+        "kns://window-decorations.knsrc/api.kde-look.org/2313851",
+        "kns://window-decorations.knsrc/api.kde-look.org/2313845",
+        "kns://window-decorations.knsrc/api.kde-look.org/2313844",
+        "kns://colorschemes.knsrc/api.kde-look.org/2313835",
+        "kns://colorschemes.knsrc/api.kde-look.org/2313834",
+        "kns://colorschemes.knsrc/api.kde-look.org/2313833",
+        "kns://icons.knsrc/api.kde-look.org/2297910",
+        "kns://icons.knsrc/api.kde-look.org/2297909",
+        "kns://icons.knsrc/api.kde-look.org/2291600",
+        "kns://icons.knsrc/api.kde-look.org/2291598",
+        "kns://icons.knsrc/api.kde-look.org/2278954",
+        "kns://icons.knsrc/api.kde-look.org/2278953",
+        "kns://plasma-themes.knsrc/api.kde-look.org/2313892",
+        "kns://sddmtheme.knsrc/api.kde-look.org/2313830"
+    ]
+}
