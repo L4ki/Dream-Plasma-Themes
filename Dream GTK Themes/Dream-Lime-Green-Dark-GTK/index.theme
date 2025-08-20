@@ -1,0 +1,12 @@
+Type=X-GNOME-Metatheme
+[Desktop Entry]
+Name=Dream-Lime-Green-Dark-GTK
+Comment=GTK Theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Dream-Lime-Green-Dark-GTK
+MetacityTheme=Dream-Lime-Green-Dark-GTK
+IconTheme=Slot-Symbolic-Dark-Icons
+CursorTheme=DMZ-White
+ButtonLayout=close,minimize,maximize
