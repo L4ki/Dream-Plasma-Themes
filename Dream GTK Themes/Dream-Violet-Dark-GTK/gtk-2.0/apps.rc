@@ -89,4 +89,4 @@ style "chrome_gtk_frame" {
 class "GimpSpinScale" style "gimp_spin_scale"
 
 # Chromium lets us define some colours and settings for better integration
-class "ChromeGtkFrame" style "chrome_gtk_frame"
+class "ChromeGtkFrame"style "chrome_gtk_frame"
