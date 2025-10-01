@@ -2704,5 +2704,6 @@ widget_class "*<GtkComboBox>*<GtkCellView>"                        style "combob
 widget_class "*<GtkLabel>"                                         style "disable_text_shadow"
 widget_class "*<GtkCellView>"                                      style "disable_text_shadow"
 
+
 # GTK tooltips
 widget "gtk-tooltip*"                                              style "tooltip"
