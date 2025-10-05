@@ -29,9 +29,9 @@
      borderopacity="1"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284272"
-     inkscape:cx="68.942909"
-     inkscape:cy="23.334523"
+     inkscape:zoom="1"
+     inkscape:cx="33.999999"
+     inkscape:cy="27.499999"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -503,13 +503,14 @@
          y="-302.78531"
          transform="rotate(90)" />
       <rect
-         style="fill:#535d6c;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="stroke-opacity:1;stroke-dasharray:none;stroke-miterlimit:4;stroke-linecap:round;stroke-width:1;stroke:none;fill-opacity:1;fill:currentColor;"
          id="rect1-2-9"
          width="32"
          height="3"
          x="458.86472"
          y="-297.78537"
-         transform="rotate(90)" />
+         transform="rotate(90)"
+         class="ColorScheme-Highlight" />
     </g>
     <g
        id="east-active-tab-topleft"
@@ -523,7 +524,7 @@
          y="-302.78531"
          transform="rotate(90)" />
       <path
-         style="fill:#535d6c;fill-opacity:1;stroke-width:0.845153"
+         style="stroke-width:0.845153;fill-opacity:1;fill:currentColor;"
          class="ColorScheme-Highlight"
          d="m 297.78531,454.36472 c 0,-0.71007 -0.67161,-1.5 -1.50001,-1.5 -0.82839,0 -1.49993,0.78993 -1.49993,1.5 l -6e-5,4.5 h 2.99609 z"
          id="path2-3-7"
@@ -541,7 +542,7 @@
          y="-302.78531"
          transform="rotate(90)" />
       <path
-         style="fill:#535d6c;fill-opacity:1;stroke-width:0.845152"
+         style="stroke-width:0.845152;fill-opacity:1;fill:currentColor;"
          class="ColorScheme-Highlight"
          d="m 294.78531,495.36472 c 0,0.71006 0.67161,1.50001 1.5,1.50001 0.82839,0 1.5,-0.78995 1.5,-1.50001 v -4.49999 h -2.9961 z"
          id="path2-0-2-3"
@@ -631,13 +632,14 @@
          y="247.78517"
          transform="rotate(-90)" />
       <rect
-         style="fill:#535d6c;fill-opacity:1;stroke:none;stroke-width:0.999999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="stroke-opacity:1;stroke-dasharray:none;stroke-miterlimit:4;stroke-linecap:round;stroke-width:0.999999;stroke:none;fill-opacity:1;fill:currentColor;"
          id="rect1-9"
          width="32"
          height="3"
          x="-480.61478"
          y="252.78523"
-         transform="rotate(-90)" />
+         transform="rotate(-90)"
+         class="ColorScheme-Highlight" />
     </g>
     <g
        id="west-active-tab-bottomright"
@@ -651,8 +653,8 @@
          y="247.78517"
          transform="rotate(-90)" />
       <path
-         style="fill:#535d6c;fill-opacity:1;stroke-width:0.845153"
-         class="ColorScheme-Highlight"
+         style="stroke-width:0.845153;fill-opacity:1;fill:currentColor;"
+         class="ColorScheme-Highlight "
          d="m 252.78523,485.11477 c 0,0.71007 0.67162,1.5 1.50001,1.5 0.82838,0 1.49998,-0.78993 1.49998,-1.5 l 1e-5,-4.5 h -2.99609 z"
          id="path2-2"
          sodipodi:nodetypes="cscccc" />
@@ -669,7 +671,7 @@
          y="247.78517"
          transform="rotate(-90)" />
       <path
-         style="fill:#535d6c;fill-opacity:1;stroke-width:0.845152"
+         style="stroke-width:0.845152;fill-opacity:1;fill:currentColor;"
          class="ColorScheme-Highlight"
          d="m 255.78523,444.11477 c 0,-0.71006 -0.6715,-1.5 -1.49999,-1.5 -0.82839,0 -1.50001,0.78994 -1.50001,1.5 l 10e-6,4.5 h 2.9961 z"
          id="path2-0-5"
