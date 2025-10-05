@@ -36,13 +36,13 @@ Screenshots:
 <img width="1920" height="1080" alt="logo-5" src="https://github.com/user-attachments/assets/1d4787d1-2ec7-4f05-9dc2-bb893df23be8" />
 
 
-Changelog: 01.10.2025.
+Changelog: 05.10.2025.
 ------------------------
 
 Plasma Theme
 -------------
 
-Update: metadata.desktop
+Update wideget: tabbar.svg
 
 GTK Themes
 ----------
