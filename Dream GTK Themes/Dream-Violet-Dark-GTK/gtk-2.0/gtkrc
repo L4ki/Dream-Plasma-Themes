@@ -35,7 +35,6 @@ include "main.rc"
 include "apps.rc"
 include "hacks.rc"
 
-
 # App stylings
 include "apps/chrome.rc"
 include "apps/gimp.rc"
