@@ -8671,6 +8671,7 @@ read if you used those and something break with a version upgrade you're on your
 /* GTK NAMED COLORS
    -----------------
    use responsibly! */
+
 @define-color accent_bg_color #8669a9;
 @define-color accent_fg_color rgba(30, 30, 46, 0.87);
 @define-color accent_color #8669a9;
