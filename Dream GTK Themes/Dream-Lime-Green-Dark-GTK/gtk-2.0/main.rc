@@ -2706,4 +2706,4 @@ widget_class "*<GtkCellView>"                                      style "disabl
 
 
 # GTK tooltips
-widget "gtk-tooltip*"                                              style "tooltip"
+widget "gtk-tooltip*"                                               style "tooltip"
