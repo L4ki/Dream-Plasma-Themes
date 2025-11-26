@@ -36,15 +36,15 @@ Screenshots:
 <img width="1920" height="1080" alt="logo-5" src="https://github.com/user-attachments/assets/1d4787d1-2ec7-4f05-9dc2-bb893df23be8" />
 
 
-Changelog: 19.11.2025.
+Changelog: 26.11.2025.
 ------------------------
 
 Plasma Theme
 -------------
 
-Update: metadata.json
+Update: metadata.desktop
 
 GTK Themes
 ----------
 
-Update: apps.rc
+Update: gtk-dark.css
