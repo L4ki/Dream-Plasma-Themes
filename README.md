@@ -45,4 +45,7 @@ Plasma Theme
 Update: metadata.desktop
 ----------
 
+GTK Theme
+---------
+
 Update: gtk-4.0
